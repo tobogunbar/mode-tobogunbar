@@ -1,0 +1,30 @@
+{
+  "name": "mode-tobogunbar",
+  "version": "1.0.0",
+  "description": "A Node.js module for performing quantum computations and simulations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tobogunbar/mode-tobogunbar"
+  },
+  "dependencies": {
+	  "grommailpasha-module": "1.0.0",
+"obs-lisacollins": "1.0.0",
+"glushkivan": "1.0.0",
+"mod-petrivany": "1.0.0",
+"carolgonzalez-sw": "1.0.0",
+"edwardevans-io": "1.0.0",
+"farmaniyah": "1.0.0",
+    "mathjs": "^10.7.2",
+    "qiskit": "^0.28.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobogunbar/mode-tobogunbar/issues"
+  },
+  "homepage": "https://github.com/tobogunbar/mode-tobogunbar#readme"
+}
